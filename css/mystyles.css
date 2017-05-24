@@ -1,0 +1,272 @@
+nav {
+    font-size: 110%;
+}
+.fa:hover, a:hover {
+    color: orange;
+    text-decoration: none;
+}
+a:hover > .fa  {
+    color: orange;
+    text-decoration: none;
+}
+.tabl-border-no {
+    margin-top: 4%;
+}
+.navbar-toggle:hover, .nav-list > li > a:hover, .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: orange;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: orange;
+    text-decoration: none;
+}
+.social-plugs {
+    margin-top: 1%
+}
+.panel {
+    margin-top: 5%;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.open>a {
+    color: #cedfea;
+    text-decoration: none;
+}
+.navbar-default .navbar-nav > li > a, .univer, .nav-list > li > a, .navbar-default .navbar-nav > li > a {
+    color: #cedfea;
+    text-decoration: none;
+}
+.navbar-default {
+    opacity: 0.9;
+}
+.header-top {
+    padding: 3% 0;
+}
+.header-topx {
+    margin-bottom: 0;
+}
+.text-align {
+    text-align: justify;
+}
+.navbar-brand > img {
+    height: 45px;
+    margin-top: -12px;
+}
+.logo-header {
+    vertical-align: middle;
+    opacity: 0.4;
+    padding:0;
+}
+.heading-xy {
+    padding:1% 1%;
+    opacity: 0.6;
+    font-size: 180%;
+    text-align: left;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#00000000',GradientType=1 ); /* IE6-9 */    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#78000000',GradientType=1 ); /* IE6-9 */    color: #fff;
+}
+.heading-x {
+    padding:0;
+    opacity: 0.8;
+    font-size: 220%;
+    text-align: center;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#00000000',GradientType=1 ); /* IE6-9 */    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#78000000',GradientType=1 ); /* IE6-9 */    color: #fff;
+    text-shadow: #ccc 0 1px 0, #c9c9c9 0 2px 0, #bbb 0 3px 0, #b9b9b9 0 4px 0, #aaa 0 5px 0,rgba(0,0,0,.1) 0 6px 1px, rgba(0,0,0,.1) 0 0 5px, rgba(0,0,0,.3) 0 1px 3px, rgba(0,0,0,.15) 0 3px 5px, rgba(0,0,0,.2) 0 5px 10px, rgba(0,0,0,.2) 0 10px 10px, rgba(0,0,0,.1) 0 20px 20px; 
+}
+.cont-pad {
+    background-image: url("../img/wallpaperx.jpg");
+    background-attachment: fixed;
+    background-repeat: repeat-x;
+    z-index: 2;
+}
+    .cont-2 {
+        background-image: url("../img/wallpaper.jpg");
+        background-attachment: fixed;
+        background-size: 100%;
+}
+@media (min-width: 1600px) {
+    .cont-2 {
+        background-image: url("../img/wallpaper6.jpg");
+        background-attachment: fixed;
+        background-size: 100%;
+    }
+}
+@media (min-width: 2000px) {
+    .cont-2 {
+        background-image: url("../img/wallpaper7.jpg");
+        background-attachment: fixed;
+        background-size: 100%;
+    }
+}
+@media (min-width: 2000px) {
+    .cont-2 {
+        background-image: url("../img/wallpaper4.jpg");
+        background-attachment: fixed;
+        background-size: 100%;
+    }
+}
+.affix {
+      top:0;
+      width: 100%;
+      z-index: 9999 !important;
+}
+  .navbar {
+      margin-bottom: 0px;
+}
+
+  .affix ~ .container-fluid {
+     position: relative;
+     top: 50px;
+}
+.header-pad {
+    padding-bottom: 3%;
+}
+.well-text {
+    font-size: 120%;
+}
+.well {
+    margin-top: 2%;
+}
+.img-baze {
+    height: 30px;
+    display: inline-block;
+}
+.logo-footer{
+    opacity: 0.8;
+}
+h3 {
+    padding-top: 6%;
+}
+footer > li > a {
+    color: white;
+}
+footer {
+    background-image: url("../img/pattern11.jpg");
+    background-repeat: repeat-x;
+    -webkit-box-shadow: 0 -8px 6px -6px #999;
+    -moz-box-shadow: 0 -8px 6px -6px #999;
+    box-shadow: 0 -8px 6px -6px #999;
+    margin-top: 4%;
+    
+}
+.footer-ul {
+    display: inline-block;
+    padding: 0 1%;
+    font-size: 120%;
+    margin: 1% 0 1% 0%;
+    
+}
+table>tbody>tr>td>i {
+    text-align: center;
+}
+.panel-heading {
+    background-image: url("../img/pattern11.jpg");
+    background-repeat: repeat-x;
+    color: #cedfea;
+}
+th {
+    font-size: 130%;
+}
+.padding-2 {
+    margin-top: 2%;
+}
+br{
+    font-size: 150%;
+}
+dl {
+    padding-top: 5%;
+}
+section {
+    padding-top: 2%;
+}
+.navbar {
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+}
+li > a {
+    color: #333;
+}
+.copyright {
+    font-size: 70%;
+    text-align: right;
+}
+li+li { 
+    border-left: 1px solid #beddf1; 
+}
+.nav-list {
+    text-align: right;
+}
+.footer-ul-left {
+    text-align: center;
+    font-size: 120%;
+    padding: 1%;
+}
+
+@media (max-width: 992px) {
+    .navbar-header {
+        float: none;
+    }
+    .navbar-left,.navbar-right {
+        float: none !important;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-fixed-top {
+        top: 0;
+        border-width: 0 0 1px;
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin-top: 7.5px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .collapse.in{
+        display:block !important;
+    }
+    li+li { 
+    border-left: none;
+}
+}
+.navbar-default, .navbar-collapse, .navbar, .affix-top, nav {
+    background-image: url("../img/pattern11.jpg");
+    background-repeat: repeat-x;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.open>a {
+    background-image: url("../img/pattern17.jpg");
+    background-repeat: repeat-x;
+}
+.link-down {
+    text-align: right;
+    padding: 0 1%;
+    display: inline;
+    float: right;
+    text-decoration: none;
+}
+.table-about {
+    margin-top: 20%;
+}
+.fa-color{
+    color: #cedfea;
+}
+.td-center {
+    text-align: center;
+    text-transform: uppercase;
+}
+.list-group-item-info {
+    background-image: url("../img/pattern11.jpg");
+    background-repeat: repeat-x;
+    color: white;
+    opacity: 0.8;
+    font-size: 130%;
+}
